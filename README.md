@@ -24,7 +24,7 @@ For example, if a user enters a temperature of 25 degrees Celsius, the program w
 
 ## Usage
 
-1. Clone the repository to your local machine using `git clone https://github.com/your-username/temperature-conversion.git`.
+1. Clone the repository to your local machine using 'https://github.com/Firdos1233/PRODIGY_SD_01.git'
 2. Navigate to the project directory.
 3. Open `index.html` in your web browser.
 4. Enter a temperature value and select the original unit of measurement.
